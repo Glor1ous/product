@@ -1,0 +1,75 @@
+/* frontend/styles/styles.css */
+.logo {
+    font-size: 2em;
+
+}
+
+.header {
+
+    padding: 50px;
+}
+
+.hero {
+    background-color: #e0f7fa;
+    padding: 50px;
+}
+
+.features-section {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.cta {
+    background-color: #e0f7fa;
+    padding: 20px;
+}
+
+.footer {
+
+    padding: 10px;
+    text-align: center;
+}
+
+
+.footer {
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.footer-text {
+    text-align: center;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-link {
+    margin: 0 10px;
+}
+
+.social-link img {
+    width: 24px;
+    height: 24px;
+}
+
+/* SwiperJS Styles */
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-button-next, .swiper-button-prev {
+    color: #000;
+}
+
+
+
